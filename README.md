@@ -1,6 +1,8 @@
 Introduction
 ===============
 
+- The Vagrant setup if from this repo: https://github.com/everpeace/vagrant-mesos
+
 This is a Apache Mesos cluster that runs Apache Karaf, Chronos, Marathon, and a loads a blueprint file with a simple transfer to MQ.
 
 
